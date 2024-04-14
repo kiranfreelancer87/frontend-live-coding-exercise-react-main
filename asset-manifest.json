@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-live-coding-exercise-react-main/static/css/main.ed108918.css",
+    "main.js": "/frontend-live-coding-exercise-react-main/static/js/main.9fd8b29f.js",
+    "index.html": "/frontend-live-coding-exercise-react-main/index.html",
+    "main.ed108918.css.map": "/frontend-live-coding-exercise-react-main/static/css/main.ed108918.css.map",
+    "main.9fd8b29f.js.map": "/frontend-live-coding-exercise-react-main/static/js/main.9fd8b29f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed108918.css",
+    "static/js/main.9fd8b29f.js"
+  ]
+}
